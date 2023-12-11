@@ -1,3 +1,5 @@
+Camera2D
+AnimationPlayer
 TileMap
 CollisionShape2D
 StaticBody2D
