@@ -1,7 +1,10 @@
+Sprite2D
+AnimatedSprite2D
+ParallaxLayer
+ParallaxBackground
 Camera2D
 AnimationPlayer
 TileMap
 CollisionShape2D
 StaticBody2D
-AnimatedSprite2D
 CharacterBody2D

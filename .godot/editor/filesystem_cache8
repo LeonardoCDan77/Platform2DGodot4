@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706117096
+::res://::1706126294
 icon.svg::CompressedTexture2D::3849472075509202647::1699898534::1699898540::1::::<><>::
-levels.tscn::PackedScene::3815143016992221803::1702339752::0::1::::<><>::uid://c4st0otovbrrf::::res://assets/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png<>uid://dn4d4bqtdcb0s::::res://assets/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png<>uid://6mcbqtp0bisb::::res://actors/player.tscn
-::res://actors/::1702339710
-player.tscn::PackedScene::2200750776047034173::1702339710::0::1::::<><>::res://scripts/player.gd<>uid://dfu5bs3abm3h2::::res://assets/Sprite Pack 2/2 - Mr. Mochi/Idle (32 x 32).png<>uid://dajbl62wkcpou::::res://assets/Sprite Pack 2/2 - Mr. Mochi/Jumping (32 x 32).png<>uid://bj5mhrls0gfwu::::res://assets/Sprite Pack 2/2 - Mr. Mochi/Running (32 x 32).png
+levels.tscn::PackedScene::3815143016992221803::1706126145::0::1::::<><>::uid://c4st0otovbrrf::::res://assets/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png<>uid://dn4d4bqtdcb0s::::res://assets/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png<>uid://6mcbqtp0bisb::::res://actors/player.tscn<>uid://fbmtoc124uux::::res://assets/Seasonal Tilesets/1 - Grassland/Background parts/5 - Sky_color.png<>uid://bppemewx5vdyx::::res://assets/Seasonal Tilesets/1 - Grassland/Background parts/4 - Cloud_cover_2.png<>uid://iupqmr6okpvn::::res://assets/Seasonal Tilesets/1 - Grassland/Background parts/3 - Cloud_cover_1.png<>uid://c2g5y8cw3euve::::res://assets/Seasonal Tilesets/1 - Grassland/Background parts/2 - Hills.png<>uid://bluhunhxji5vq::::res://assets/Seasonal Tilesets/1 - Grassland/Background parts/1 - Foreground_scenery.png
+::res://actors/::1706125395
+player.tscn::PackedScene::2200750776047034173::1706125395::0::1::::<><>::res://scripts/player.gd<>uid://dfu5bs3abm3h2
 ::res://assets/::1699899541
 ::res://assets/Mini FX, Items & UI/::1699899500
 LICENSE.txt::TextFile::-1::1593868726::0::1::::<><>::
@@ -138,5 +138,5 @@ Claw_Animations (16 x 16).png::CompressedTexture2D::5439216652713464262::1592409
 Hurt (32 x 32).png::CompressedTexture2D::8443835662463423624::1592409916::1699899785::1::::<><>::
 Movement_(Flip_image_back_and_forth) (32 x 32).png::CompressedTexture2D::634548970054091812::1592409578::1699899785::1::::<><>::
 Reaching_to_Pinch (32 x 32).png::CompressedTexture2D::1655237495812216806::1592409764::1699899785::1::::<><>::
-::res://scripts/::1702335529
-player.gd::GDScript::-1::1702335529::0::1::::<>CharacterBody2D<>::
+::res://scripts/::1706125435
+player.gd::GDScript::-1::1706125435::0::1::::<>CharacterBody2D<>::
